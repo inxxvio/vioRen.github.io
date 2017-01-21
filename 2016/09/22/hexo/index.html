@@ -5,7 +5,7 @@
   
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
-  <link rel="dns-prefetch" href="http://vioren.github.io">
+  <link rel="dns-prefetch" href="http://vioren.coding.me">
   <title>使用GitHub和Hexo搭建免费静态Blog | 寻沫小栈 | 风澈</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="前言习惯自己写Blog的朋友一定不会陌生Wordpress，或许也曾在新浪博客和QQ空间留过脚印，但静心认真思考一下，似乎我们又总是向往更加简单自由的写作方式。GitHub给我们提供了一个无限的空间，我们需要珍惜使用，而Hexo的出现从某种意义上来说代替了Jekyll，让我们可以更专注于写作本身。
@@ -13,7 +13,7 @@
 喜欢写Blog的人，会经历三个阶段。第一阶段，刚接触Blog，觉得很新鲜，试着选择一个免费空间">
 <meta property="og:type" content="article">
 <meta property="og:title" content="使用GitHub和Hexo搭建免费静态Blog">
-<meta property="og:url" content="http://vioren.github.io/2016/09/22/hexo/index.html">
+<meta property="og:url" content="http://vioren.coding.me/2016/09/22/hexo/index.html">
 <meta property="og:site_name" content="寻沫小栈 | 风澈">
 <meta property="og:description" content="前言习惯自己写Blog的朋友一定不会陌生Wordpress，或许也曾在新浪博客和QQ空间留过脚印，但静心认真思考一下，似乎我们又总是向往更加简单自由的写作方式。GitHub给我们提供了一个无限的空间，我们需要珍惜使用，而Hexo的出现从某种意义上来说代替了Jekyll，让我们可以更专注于写作本身。
 
@@ -47,7 +47,7 @@
 var _hmt = _hmt || [];
 (function() {
 	var hm = document.createElement("script");
-	hm.src = "https://hm.baidu.com/hm.js?dcdc316baf643be50e568885064e1088";
+	hm.src = "https://hm.baidu.com/hm.js?f0a5fa57dbb3bb77c7d08ab2b857519d";
 	var s = document.getElementsByTagName("script")[0]; 
 	s.parentNode.insertBefore(hm, s);
 })();
@@ -213,7 +213,7 @@ var _hmt = _hmt || [];
 <blockquote>
 <p>A fast, simple &amp; powerful blog framework, powered by Node.js.</p>
 </blockquote>
-<p>类似于jekyll、Octopress、Wordpress，我们可以用Hexo创建自己的博客，托管到github、Heroku或Coding上，绑定自己的域名，用markdown写文章。<a href="http://vioren.github.io/">本博客</a>即使用hexo创建并托管在github上。</p>
+<p>类似于jekyll、Octopress、Wordpress，我们可以用Hexo创建自己的博客，托管到github、Heroku或Coding上，绑定自己的域名，用markdown写文章。<a href="http://vioren.github.io/" target="_blank" rel="external">本博客</a>即使用hexo创建并托管在github上。</p>
 <h3 id="为什么要用hexo"><a href="#为什么要用hexo" class="headerlink" title="为什么要用hexo"></a>为什么要用hexo</h3><blockquote>
 <p>不可思议的快速 ─ 只要一眨眼静态文件即生成完成<br>支持 Markdown<br>仅需一道指令即可部署到 GitHub Pages 和 Heroku<br>已移植 Octopress 插件<br>高扩展性、自订性<br>兼容于 Windows, Mac &amp; Linux</p>
 </blockquote>
@@ -238,7 +238,7 @@ var _hmt = _hmt || [];
 <p>好了，至此，本地博客已经搭建起来了，只是本地哦，别人看不到的。下面，我们要部署到Github。</p>
 <hr>
 <h1 id="配置GitHub"><a href="#配置GitHub" class="headerlink" title="配置GitHub"></a>配置GitHub</h1><h3 id="注册Github账号"><a href="#注册Github账号" class="headerlink" title="注册Github账号"></a>注册Github账号</h3><p>已有账号可以跳过，没有的，请登录<a href="https://github.com/" target="_blank" rel="external">GitHub</a>进行注册，很简单，这里就不介绍了。</p>
-<h3 id="创建repository"><a href="#创建repository" class="headerlink" title="创建repository"></a>创建repository</h3><p>在自己Github主页右下角，创建<code>New repository</code>。<br>比如我的Github账号是<a href="https://github.com/vioren" target="_blank" rel="external">vioren</a>，那么我应该创建的repository名字应该是<code>vioren.github.io</code>。<br>首次创建耐心等待10分钟左右审核，之后即可访问静态主页如<a href="http://vioren.github.io/">http://vioren.github.io</a></p>
+<h3 id="创建repository"><a href="#创建repository" class="headerlink" title="创建repository"></a>创建repository</h3><p>在自己Github主页右下角，创建<code>New repository</code>。<br>比如我的Github账号是<a href="https://github.com/vioren" target="_blank" rel="external">vioren</a>，那么我应该创建的repository名字应该是<code>vioren.github.io</code>。<br>首次创建耐心等待10分钟左右审核，之后即可访问静态主页如<a href="http://vioren.github.io/" target="_blank" rel="external">http://vioren.github.io</a></p>
 <h3 id="配置部署"><a href="#配置部署" class="headerlink" title="配置部署"></a>配置部署</h3><p>编辑<code>_config.yml</code>(在<code>D:\hexo</code>下)。你在配置时，要把下面的vioren都换成你的账号名。<br><figure class="highlight less"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="attribute">deploy</span>:</div><div class="line">  <span class="attribute">type</span>: git</div><div class="line">  <span class="attribute">repository</span>: <span class="attribute">https</span>:<span class="comment">//github.com/vioren/vioren.gith防和谐ub.io.git</span></div><div class="line">  <span class="attribute">branch</span>: master</div></pre></td></tr></table></figure></p>
 <p>注意：<code>type:空格git</code>。都要使用空格，否则会出错。</p>
 <h3 id="配置本机的ssh-key"><a href="#配置本机的ssh-key" class="headerlink" title="配置本机的ssh key"></a>配置本机的ssh key</h3><p>通过ssh keys就可以将本地的项目与Github关联起来</p>
@@ -442,7 +442,7 @@ var _hmt = _hmt || [];
     <a class="close js-modal-close" href="javascript:;"><i class="icon icon-close"></i></a>
     <p>扫一扫，分享到微信</p>
     <div class="wx-qrcode">
-      <img src="http://s.jiathis.com/qrcode.php?url=http://vioren.github.io/2016/09/22/hexo/" alt="微信分享二维码">
+      <img src="http://s.jiathis.com/qrcode.php?url=http://vioren.coding.me/2016/09/22/hexo/" alt="微信分享二维码">
     </div>
 </div>
 
@@ -481,7 +481,7 @@ var _hmt = _hmt || [];
   
   <div class="duoshuo">
 	<!-- 多说评论框 start -->
-	<div class="ds-thread" data-thread-key="hexo" data-title="使用GitHub和Hexo搭建免费静态Blog" data-url="http://vioren.github.io/2016/09/22/hexo/"></div>
+	<div class="ds-thread" data-thread-key="hexo" data-title="使用GitHub和Hexo搭建免费静态Blog" data-url="http://vioren.coding.me/2016/09/22/hexo/"></div>
 	<!-- 多说评论框 end -->
 	<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 	<script type="text/javascript">
@@ -586,10 +586,6 @@ var _hmt = _hmt || [];
           <ul class="article-tag-list" q-show="showTags">
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">随笔</a>
-              </li>
-             
-              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color5">软件开发</a>
               </li>
              
@@ -631,6 +627,10 @@ var _hmt = _hmt || [];
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color3">破解</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color3">随笔</a>
               </li>
             
             <div class="clearfix"></div>
