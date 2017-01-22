@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://vioren.coding.me/"/>
-  <updated>2017-01-19T11:57:11.484Z</updated>
+  <updated>2017-01-22T06:20:55.458Z</updated>
   <id>http://vioren.coding.me/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>利用IDA简单过so签名校验</title>
-    <link href="http://vioren.coding.me/2017/01/16/idasignature/"/>
-    <id>http://vioren.coding.me/2017/01/16/idasignature/</id>
+    <link href="http://vioren.coding.me/archives/idasignature/"/>
+    <id>http://vioren.coding.me/archives/idasignature/</id>
     <published>2017-01-16T10:36:09.000Z</published>
-    <updated>2017-01-19T11:57:11.484Z</updated>
+    <updated>2017-01-22T06:20:55.458Z</updated>
     
     <content type="html"><![CDATA[<p><strong>核心：破解安卓NDK端native方法动态JNI反射的so文件签名校验</strong></p>
 <p>分析之前，关于Android的签名机制就略过啦，先简单恶补一下Android签名校验的方式，方便小白理解。</p>
@@ -99,10 +99,10 @@
   
   <entry>
     <title>图片处理Pixlr Express v3.0.3独家去广告破解版</title>
-    <link href="http://vioren.coding.me/2017/01/14/pixlr/"/>
-    <id>http://vioren.coding.me/2017/01/14/pixlr/</id>
+    <link href="http://vioren.coding.me/archives/pixlr/"/>
+    <id>http://vioren.coding.me/archives/pixlr/</id>
     <published>2017-01-14T14:58:20.000Z</published>
-    <updated>2017-01-15T15:55:02.339Z</updated>
+    <updated>2017-01-22T06:20:33.372Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/pixlr-0.png?imageView/2/w/200/q/90" alt=""><br>Pixlr Express – 一款适合每个人的照片编辑器：不论您是从未编辑过照片的新人，还是一名专业人士，Pixlr 均可提供您需要的所有工具和特效。</p>
 <p>Pixlr Express图片处理是Autodesk推出的一款免费安卓图片处理软件，内置600多种特效及滤镜，包含了优秀免费修图软体常见的特效滤镜套用、曝光对比调整、相框与特殊光线外挂等等，但又更进一步的，加入了像是去除红眼、去除特定颜色、去除噪点或锐利化、加上白光、移轴镜等等功能，而且每种功能、每个特效都提供了细部调整，让一般用户也能简单把特效变得更专业。</p>
@@ -171,10 +171,10 @@
   
   <entry>
     <title>照片编辑器Photo Editor Pro v2.3特别精简版</title>
-    <link href="http://vioren.coding.me/2016/12/28/photoeditor/"/>
-    <id>http://vioren.coding.me/2016/12/28/photoeditor/</id>
+    <link href="http://vioren.coding.me/archives/photoeditor/"/>
+    <id>http://vioren.coding.me/archives/photoeditor/</id>
     <published>2016-12-28T09:29:20.000Z</published>
-    <updated>2017-01-20T16:58:54.401Z</updated>
+    <updated>2017-01-20T17:29:20.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/photoeditor-0.png?imageView/2/w/200/q/90" alt=""><br>Photo Editor Pro – 一款轻量级简单易用的照片处理应用程序。</p>
 <p>调整照片的颜色，旋转、裁剪、调整大小、添加效果、相框，并可在照片上涂鸦。颜色调整选项包括色相、饱和度、对比度、和亮度。此外，Photo Editor为您的照片提供了各种各样的效果，包括伽玛校正、自动对比度、自动色阶、模糊、锐化、油性涂料、素描、黑 &amp; 白高对比度、深棕，等等。</p>
@@ -247,10 +247,10 @@
   
   <entry>
     <title>克隆相机Clone Camera v2.2/v2.3精简破解版</title>
-    <link href="http://vioren.coding.me/2016/12/15/clonecamera/"/>
-    <id>http://vioren.coding.me/2016/12/15/clonecamera/</id>
+    <link href="http://vioren.coding.me/archives/clonecamera/"/>
+    <id>http://vioren.coding.me/archives/clonecamera/</id>
     <published>2016-12-15T14:29:20.000Z</published>
-    <updated>2017-01-12T05:49:40.196Z</updated>
+    <updated>2017-01-22T06:20:46.793Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/clonecamera-0.png?imageView/2/w/200/q/90" alt=""><br>Clone Camera – 一款方便快捷克隆物体制作炫酷照片的应用。</p>
 <p>Clone Camera是一款趣味照相应用，通过这款应用，我们可以将照片中的人或物体复制，在同个场景中创造最多四个相同的影像。而使用者不需要懂得复杂的P图技巧，只需要简单的几步，就可以制作出富有创意的摄影作品。</p>
@@ -313,10 +313,10 @@
   
   <entry>
     <title>3D桌球Pool Break Pro v2.6.5汉化特别版</title>
-    <link href="http://vioren.coding.me/2016/12/05/poolbreak/"/>
-    <id>http://vioren.coding.me/2016/12/05/poolbreak/</id>
+    <link href="http://vioren.coding.me/archives/poolbreak/"/>
+    <id>http://vioren.coding.me/archives/poolbreak/</id>
     <published>2016-12-05T09:29:20.000Z</published>
-    <updated>2017-01-14T15:16:19.381Z</updated>
+    <updated>2017-01-22T06:20:29.111Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/poolbreak-0.png?imageView/2/w/200/q/90" alt=""><br>Pool Break是一套具有多种台球玩法，包括八球，九球，斯诺克，克朗棋和加拿大棋等十余种台球的一套游戏，其逼真的物理逻辑系数和图形渲染效果以及方便快捷的操作方式均有可圈可点之处。更值得一提的是, 其不仅可以人机对战, 且支持联网对战。</p>
 <p><strong>功能特点：</strong></p>
@@ -386,10 +386,10 @@
   
   <entry>
     <title>使用渐进式 JPEG 来提升用户体验</title>
-    <link href="http://vioren.coding.me/2016/12/01/optimizejpeg/"/>
-    <id>http://vioren.coding.me/2016/12/01/optimizejpeg/</id>
+    <link href="http://vioren.coding.me/archives/optimizejpeg/"/>
+    <id>http://vioren.coding.me/archives/optimizejpeg/</id>
     <published>2016-11-30T17:56:40.000Z</published>
-    <updated>2017-01-12T05:49:46.531Z</updated>
+    <updated>2017-01-22T06:21:00.092Z</updated>
     
     <content type="html"><![CDATA[<p>　　网络上那些色色的照片都是<code>.jpg</code>格式的（“色色”指的是色彩斑斓的意思 /手动抠鼻/）。不知诸位有没有注意到，这些<code>.jpg</code>格式的图片在呈现的时候，有两种方式，一种是自上而下扫描式的，还有一种就是先是全部的模糊图片，然后逐渐清晰(就像GIF格式的交错显示)。</p>
 <p>　　JPEG文件有两种保存方式，分别是<em>Baseline JPEG（基准式）</em>和<em>Progressive JPEG（渐进式）</em>。两种格式有相同尺寸以及图像数据，它们的扩展名也是相同的，唯一的区别是二者显示的方式不同。<br><a id="more"></a><br><strong>Baseline JPEG</strong><br>　　这种类型的JPEG文件存储方式是按从上到下的扫描方式，把每一行顺序的保存在JPEG文件中。打开这个文件显示它的内容时，数据将按照存储时的顺序从上到下一行一行的被显示出来，直到所有的数据都被读完，就完成了整张图片的显示。如果文件较大或者网络下载速度较慢，那么就会看到图片被一行行加载的效果，这种格式的JPEG没有什么优点，因此，一般都推荐使用<em>Progressive JPEG</em>。<br><img src="http://odt5zm3rs.bkt.clouddn.com/JPEG-1.gif" alt=""></p>
@@ -425,10 +425,10 @@
   
   <entry>
     <title>后期对焦AfterFocus Pro v2.1.0独家汉化破解版</title>
-    <link href="http://vioren.coding.me/2016/11/15/afterfocus/"/>
-    <id>http://vioren.coding.me/2016/11/15/afterfocus/</id>
+    <link href="http://vioren.coding.me/archives/afterfocus/"/>
+    <id>http://vioren.coding.me/archives/afterfocus/</id>
     <published>2016-11-14T17:29:20.000Z</published>
-    <updated>2017-01-12T05:49:43.082Z</updated>
+    <updated>2017-01-22T06:20:50.929Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/afterfocus-logo.png?imageView/2/w/200/q/90" alt=""><br>AfterFocus Pro – 一款可将照片后期调教出背景虚化、焦点景物突出的单反效果，还可进行光圈控制、使用滤镜等一系列操作的Android应用。</p>
 <p>　　通过AfterFocus Pro，你可以通过简单地选择对焦区域创建DSLR风格的背景虚化的照片。此外，多种滤镜效果为您创造最自然，逼真的照片。更精确地选择一个对焦领域，可以实现更加自然和专业的照片。只需标记你想要对焦的地方，AfterFocus Pro将自动精确识别对焦区域中复杂形状的物体。这种自动功能可以让你在智能手机的小屏幕上更快捷方便的修片。另外，AfterFocus Pro的背景虚化效果使相片背景的边缘和焦点区域之间呈现更逼真的外观。</p>
@@ -481,10 +481,10 @@
   
   <entry>
     <title>Mifare Classic Tool(MCT)2.1.0汉化特别版</title>
-    <link href="http://vioren.coding.me/2016/10/19/mifareclassictool/"/>
-    <id>http://vioren.coding.me/2016/10/19/mifareclassictool/</id>
+    <link href="http://vioren.coding.me/archives/mifareclassictool/"/>
+    <id>http://vioren.coding.me/archives/mifareclassictool/</id>
     <published>2016-10-19T09:29:20.000Z</published>
-    <updated>2017-01-12T05:49:37.176Z</updated>
+    <updated>2017-01-22T06:20:43.131Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/MCT-1.png?imageView/2/w/200/q/90" alt=""><br>Mifare Classic Tool (MCT) – 一款用来读取、写入、分析Mifare Classic RFID卡片的Android NFC应用。</p>
 <p><strong>功能特点：</strong></p>
@@ -558,10 +558,10 @@
   
   <entry>
     <title>Markdown语法综述</title>
-    <link href="http://vioren.coding.me/2016/10/10/markdown/"/>
-    <id>http://vioren.coding.me/2016/10/10/markdown/</id>
+    <link href="http://vioren.coding.me/archives/markdown/"/>
+    <id>http://vioren.coding.me/archives/markdown/</id>
     <published>2016-10-10T07:27:17.000Z</published>
-    <updated>2017-01-12T05:49:49.472Z</updated>
+    <updated>2017-01-22T06:21:05.782Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/markdown-0.png?imageView/2/w/300/q/90" alt=""><br>　　<a href="http://zh.wikipedia.org/wiki/Markdown" target="_blank" rel="external">Markdown</a> 是一种轻量级的「标记语言」，它的优点很多，目前也被越来越多的写作爱好者，撰稿者广泛使用。看到这里请不要被「标记」、「语言」所迷惑，Markdown 的语法十分简单。常用的标记符号也不超过十个，这种相对于更为复杂的HTML 标记语言来说，Markdown 可谓是十分轻量的，其流行程度已经得到了GitHub和Stack Overflow的广泛支持，学习成本也不需要太多，作为普通人我们也可以轻松上手，结合Hexo我们可以十分优(zhuang)雅(bi)的分享知识，传递快乐。<br><a id="more"></a></p>
 <h2 id="认识Markdown"><a href="#认识Markdown" class="headerlink" title="认识Markdown"></a>认识Markdown</h2><hr>
@@ -612,10 +612,10 @@
   
   <entry>
     <title>多说评论下篇之个性化评论框</title>
-    <link href="http://vioren.coding.me/2016/10/03/duoshuothree/"/>
-    <id>http://vioren.coding.me/2016/10/03/duoshuothree/</id>
+    <link href="http://vioren.coding.me/archives/duoshuothree/"/>
+    <id>http://vioren.coding.me/archives/duoshuothree/</id>
     <published>2016-10-03T07:27:17.000Z</published>
-    <updated>2017-01-12T05:49:52.574Z</updated>
+    <updated>2017-01-22T06:21:09.875Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/duoshuothree-0.png" alt=""></p>
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><hr>
@@ -688,10 +688,10 @@
   
   <entry>
     <title>多说评论中篇之显示UA信息和博主</title>
-    <link href="http://vioren.coding.me/2016/10/02/duoshuotwo/"/>
-    <id>http://vioren.coding.me/2016/10/02/duoshuotwo/</id>
+    <link href="http://vioren.coding.me/archives/duoshuotwo/"/>
+    <id>http://vioren.coding.me/archives/duoshuotwo/</id>
     <published>2016-10-02T07:27:17.000Z</published>
-    <updated>2017-01-12T05:49:55.538Z</updated>
+    <updated>2017-01-22T06:21:14.318Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/duoshuotwo-0.png" alt=""></p>
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><hr>
@@ -732,10 +732,10 @@
   
   <entry>
     <title>多说评论上篇之自定义CSS头像</title>
-    <link href="http://vioren.coding.me/2016/10/01/duoshuoone/"/>
-    <id>http://vioren.coding.me/2016/10/01/duoshuoone/</id>
+    <link href="http://vioren.coding.me/archives/duoshuoone/"/>
+    <id>http://vioren.coding.me/archives/duoshuoone/</id>
     <published>2016-10-01T07:27:17.000Z</published>
-    <updated>2017-01-12T05:49:58.563Z</updated>
+    <updated>2017-01-22T06:21:18.923Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/duoshuoone-0.png" alt=""></p>
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><hr>
@@ -789,10 +789,10 @@
   
   <entry>
     <title>使用GitHub和Hexo搭建免费静态Blog</title>
-    <link href="http://vioren.coding.me/2016/09/22/hexo/"/>
-    <id>http://vioren.coding.me/2016/09/22/hexo/</id>
+    <link href="http://vioren.coding.me/archives/hexo/"/>
+    <id>http://vioren.coding.me/archives/hexo/</id>
     <published>2016-09-22T07:27:17.000Z</published>
-    <updated>2017-01-12T05:50:01.461Z</updated>
+    <updated>2017-01-22T06:21:23.970Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/hexo-1.png?imageView/2/w/450/q/90" alt=""></p>
 <hr>
@@ -964,10 +964,10 @@
   
   <entry>
     <title>记一次安卓Unity3d游戏的逆向分析</title>
-    <link href="http://vioren.coding.me/2016/09/20/crackunity3d/"/>
-    <id>http://vioren.coding.me/2016/09/20/crackunity3d/</id>
+    <link href="http://vioren.coding.me/archives/crackunity3d/"/>
+    <id>http://vioren.coding.me/archives/crackunity3d/</id>
     <published>2016-09-20T15:27:09.000Z</published>
-    <updated>2017-01-14T07:55:54.603Z</updated>
+    <updated>2017-01-22T06:21:27.526Z</updated>
     
     <content type="html"><![CDATA[<p>使用到的工具</p>
 <p><a href="http://www.52pojie.cn/thread-429318-1-1.html" target="_blank" rel="external">ApkToolBox</a><br>.NET Reflector<br>Reflexil(.NET程序编辑器)</p>
@@ -1017,10 +1017,10 @@
   
   <entry>
     <title>小镜头大视角：摄影师用iPhone拍摄乐高人偶的生活</title>
-    <link href="http://vioren.coding.me/2016/01/04/legotwo/"/>
-    <id>http://vioren.coding.me/2016/01/04/legotwo/</id>
+    <link href="http://vioren.coding.me/archives/legotwo/"/>
+    <id>http://vioren.coding.me/archives/legotwo/</id>
     <published>2016-01-04T06:51:10.000Z</published>
-    <updated>2017-01-12T06:31:19.914Z</updated>
+    <updated>2017-01-22T06:21:31.846Z</updated>
     
     <content type="html"><![CDATA[<p>『摄影师』Andrew Whyte：带着乐高小人去旅行</p>
 <p>　　乐高玩具在全世界都拥有著无数粉丝，与之相关的《The Lego Movie》也是横扫世界各地的电影票房。当然，乐高玩具人人会玩，可要是想以这些小方块创作出壹些艺术作品的话可就不是那么容易了。如果你找不到什么灵感的话，那不如来看看摄影师 Andrew Whyte 利用乐高玩偶创造的「Legography」系列作品吧。<br>　　Andrew Whyte 擅长利用长曝光等方式创作变化多端的微观风格摄影作品。在「Legography」系列作品中，他通过技术手段巧妙地将玩偶所处的微观环境以拟人化的形态呈现在大家眼前。玩偶好似壹个现实世界中的真实身影，在不同的场景中展开各种离奇的故事。<br>　　想要了解更多有关「Legography」作品的朋友可以访问 Andrew Whyte 的官方网站。</p>
@@ -1127,10 +1127,10 @@
   
   <entry>
     <title>英夫妇带&quot;乐高玩具人偶&quot;全球旅行，另类情侣照获热捧。</title>
-    <link href="http://vioren.coding.me/2016/01/01/legoone/"/>
-    <id>http://vioren.coding.me/2016/01/01/legoone/</id>
+    <link href="http://vioren.coding.me/archives/legoone/"/>
+    <id>http://vioren.coding.me/archives/legoone/</id>
     <published>2016-01-01T06:32:05.000Z</published>
-    <updated>2017-01-12T06:31:18.892Z</updated>
+    <updated>2017-01-22T06:21:38.372Z</updated>
     
     <content type="html"><![CDATA[<p>　　英格兰夫妇克雷格·麦克卡特尼（Craig McCartney）与林德赛·哈格蒂（Lindsey Haggerty）正进行“乐高全球旅行”，他们携带着以自己为蓝本、用乐高玩具拼成的情侣假人进行全球旅行，为“乐高情侣”拍摄的另类情侣照网上受热捧。</p>
 <p><img src="http://odt5zm3rs.bkt.clouddn.com/lego1-1.jpg?imageView/2/w/600/q/90" alt="英夫妇带&quot;乐高玩具人偶&quot;全球旅行，另类情侣照获热捧。"></p>
@@ -1178,10 +1178,10 @@
   
   <entry>
     <title>tomcat+java的web程序持续占cpu问题调试</title>
-    <link href="http://vioren.coding.me/2015/12/23/highcpu/"/>
-    <id>http://vioren.coding.me/2015/12/23/highcpu/</id>
+    <link href="http://vioren.coding.me/archives/highcpu/"/>
+    <id>http://vioren.coding.me/archives/highcpu/</id>
     <published>2015-12-23T06:17:44.000Z</published>
-    <updated>2017-01-14T15:18:40.256Z</updated>
+    <updated>2017-01-22T06:21:43.186Z</updated>
     
     <content type="html"><![CDATA[<h3 id="线上应用故障排查之：高CPU占用"><a href="#线上应用故障排查之：高CPU占用" class="headerlink" title="[线上应用故障排查之：高CPU占用]"></a>[线上应用故障排查之：高CPU占用]</h3><p>一个应用占用CPU很高，除了确实是计算密集型应用之外，通常原因都是出现了死循环。<br>以我们最近出现的一个实际故障为例，介绍怎么定位和解决这类问题。<br><strong>现象：</strong><br>在tomcat中部署java的web应用程序，过一段时间后出现tomcat的java进程持续占用cpu高达100%，导致web程序访问受阻。<br><strong>可能原因分析：</strong><br>可能程序确实在进行数据计算；或程序进入死循环。<br><a id="more"></a><br><strong>解决方法：</strong></p>
 <ol>
@@ -1217,10 +1217,10 @@
   
   <entry>
     <title>化学geek是怎么玩坏表情包的：翻滚吧，苯宝宝！</title>
-    <link href="http://vioren.coding.me/2015/12/08/benzenebaby/"/>
-    <id>http://vioren.coding.me/2015/12/08/benzenebaby/</id>
+    <link href="http://vioren.coding.me/archives/benzenebaby/"/>
+    <id>http://vioren.coding.me/archives/benzenebaby/</id>
     <published>2015-12-08T04:51:33.000Z</published>
-    <updated>2017-01-12T05:49:19.911Z</updated>
+    <updated>2017-01-22T06:21:47.322Z</updated>
     
     <content type="html"><![CDATA[<p>　　最近在网上，大家可能会看到一系列“苯宝宝”的表情，简单说就是用苯环和相关化合物来取谐音做表情，像这样：<br><img src="http://7xou8l.com1.z0.glb.clouddn.com/ben_1.jpg"><br>　　虽然对化学有点感情，不过Po主对这个表情还是不满意，化学狗的脑洞并没有得到充分展现嘛……而且说实话也不大好看。<br>　　于是！我开拓了一下脑洞，自己画了一组表情包和大家共赏<em>(:з」∠)</em><br><a id="more"></a><br>　　你们如果有什么好的脑洞，也欢迎发给我233<br>　　总之，下面的内容可能会很冷，请准备好热水袋……<br><img src="http://7xou8l.com1.z0.glb.clouddn.com/ben_2.jpg"><br>　　嗯别装醇了，你就是一个酚，还是最简单的酚。（顺便，苯酚还是生产阿司匹林的重要原料~<br><img src="http://7xou8l.com1.z0.glb.clouddn.com/ben_3.jpg"><br>　　说起来，“多虑”的话，难道不应该是多氯联苯吗——<br>　　苯宝宝多氯加强版：联苯也多氯了！<br><img src="http://7xou8l.com1.z0.glb.clouddn.com/ben_4.jpg"><br>　　多氯联苯是一系列化合物的统称，它们也是需要警惕的环境污染物<br><img src="http://7xou8l.com1.z0.glb.clouddn.com/ben_5.jpg"><br><img src="http://7xou8l.com1.z0.glb.clouddn.com/ben_6.jpg"><br>　　三硝基甲苯，也就是TNT啦<br><img src="http://7xou8l.com1.z0.glb.clouddn.com/ben_7.jpg"><br>　　嗯如果苯加氢到饱和，也就是环己烷了……不少涂改液的溶剂是甲基环己烷，你可能还记得它的气味<br><img src="http://7xou8l.com1.z0.glb.clouddn.com/ben_8.jpg"><br>　　砜是一种含硫化合物，如果少一个氧的话就是亚砜，不少实验室可能会用到二甲亚砜这种东西。<br><img src="http://7xou8l.com1.z0.glb.clouddn.com/ben_9.jpg"><br>　　嗯，正辛酸呢……<br>　　下面还有几个后续脑洞：<br><img src="http://7xou8l.com1.z0.glb.clouddn.com/ben_10.jpg"><br>　　萘铌~有点像是象形火星文= =</p>
 <p>　　两个苯环并在一起就是萘<br><img src="http://7xou8l.com1.z0.glb.clouddn.com/ben_11.jpg"><br>　　这个是蒽重如山……<br>　　三个苯环并一排就是蒽环<em>(:з」∠)</em></p>
@@ -1242,10 +1242,10 @@
   
   <entry>
     <title>几种VCS(版本控制系统)的特点和异同</title>
-    <link href="http://vioren.coding.me/2015/12/05/vcs/"/>
-    <id>http://vioren.coding.me/2015/12/05/vcs/</id>
+    <link href="http://vioren.coding.me/archives/vcs/"/>
+    <id>http://vioren.coding.me/archives/vcs/</id>
     <published>2015-12-05T01:56:40.000Z</published>
-    <updated>2017-01-14T15:17:50.634Z</updated>
+    <updated>2017-01-22T06:21:52.128Z</updated>
     
     <content type="html"><![CDATA[<p>　　<strong>版本控制系统（version control system）</strong>,是一种记录一个或若干文件内容变化，以便将来查阅特定版本修订情况的系统。版本控制系统不仅可以应用于软件源代码的文本文件，而且可以对任何类型的文件进行版本控制。用的比较多的如svn，git等。</p>
 <p>　　为了让不同系统上的开发者能够协同工作，集中化的版本控制系统应运而生（CVCS）。这类系统都有一个单一的集中管理的服务器，保存所有文件的修订版本。而协同工作的人们都通过客户端连接到这台服务器，获取最新的文件或者提交更新。集中化的版本控制系统，最显而易见的缺点是中央服务器的单点故障问题。如果宕机，那么就会出现谁都无法提交更新的情况，那么也就无法协同工作；如果磁盘发生故障，而备份又不够即时，那么就有丢失数据的风险，最坏的情况是丢失整个项目的历史更改记录。因此，分布式版本控制系统问世了（DVCS）。<br><a id="more"></a><br>　　在分布式版本控制系统中，客户端不仅仅是只提取最新版本的文件快照，而是把代码仓库完整的镜像下来。所以每一次提取的操作，都是对代码仓库的完整备份，因此也就不必担心协同工作用的服务器发生故障。</p>
@@ -1286,10 +1286,10 @@
   
   <entry>
     <title>信条</title>
-    <link href="http://vioren.coding.me/2015/12/04/motto/"/>
-    <id>http://vioren.coding.me/2015/12/04/motto/</id>
+    <link href="http://vioren.coding.me/archives/motto/"/>
+    <id>http://vioren.coding.me/archives/motto/</id>
     <published>2015-12-04T07:35:06.000Z</published>
-    <updated>2017-01-12T05:49:26.542Z</updated>
+    <updated>2017-01-22T06:22:28.453Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>我可以划船不用桨，我可以扬帆没有风向，因为我这一生，全靠<strong>浪</strong>。</p>

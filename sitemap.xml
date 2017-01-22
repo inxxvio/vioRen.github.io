@@ -2,149 +2,156 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://vioren.coding.me/2016/12/28/photoeditor/</loc>
+    <loc>http://vioren.coding.me/guestbook.html</loc>
     
-    <lastmod>2017-01-20T16:58:54.401Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.coding.me/2017/01/16/idasignature/</loc>
-    
-    <lastmod>2017-01-19T11:57:11.484Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.coding.me/2017/01/14/pixlr/</loc>
-    
-    <lastmod>2017-01-15T15:55:02.339Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.coding.me/2015/12/23/highcpu/</loc>
-    
-    <lastmod>2017-01-14T15:18:40.256Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.coding.me/2015/12/05/vcs/</loc>
-    
-    <lastmod>2017-01-14T15:17:50.634Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.coding.me/2016/12/05/poolbreak/</loc>
-    
-    <lastmod>2017-01-14T15:16:19.381Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.coding.me/2016/09/20/crackunity3d/</loc>
-    
-    <lastmod>2017-01-14T07:55:54.603Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.coding.me/2016/01/04/legotwo/</loc>
-    
-    <lastmod>2017-01-12T06:31:19.914Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.coding.me/2016/01/01/legoone/</loc>
-    
-    <lastmod>2017-01-12T06:31:18.892Z</lastmod>
+    <lastmod>2017-01-22T06:42:52.597Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://vioren.coding.me/404.html</loc>
     
-    <lastmod>2017-01-12T06:07:03.459Z</lastmod>
+    <lastmod>2017-01-22T06:42:18.744Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://vioren.coding.me/2016/09/22/hexo/</loc>
+    <loc>http://vioren.coding.me/archives/motto/</loc>
     
-    <lastmod>2017-01-12T05:50:01.461Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.coding.me/2016/10/01/duoshuoone/</loc>
-    
-    <lastmod>2017-01-12T05:49:58.563Z</lastmod>
+    <lastmod>2017-01-22T06:22:28.453Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://vioren.coding.me/2016/10/02/duoshuotwo/</loc>
+    <loc>http://vioren.coding.me/archives/vcs/</loc>
     
-    <lastmod>2017-01-12T05:49:55.538Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.coding.me/2016/10/03/duoshuothree/</loc>
-    
-    <lastmod>2017-01-12T05:49:52.574Z</lastmod>
+    <lastmod>2017-01-22T06:21:52.128Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://vioren.coding.me/2016/10/10/markdown/</loc>
+    <loc>http://vioren.coding.me/archives/benzenebaby/</loc>
     
-    <lastmod>2017-01-12T05:49:49.472Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.coding.me/2016/12/01/optimizejpeg/</loc>
-    
-    <lastmod>2017-01-12T05:49:46.531Z</lastmod>
+    <lastmod>2017-01-22T06:21:47.322Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://vioren.coding.me/2016/11/15/afterfocus/</loc>
+    <loc>http://vioren.coding.me/archives/highcpu/</loc>
     
-    <lastmod>2017-01-12T05:49:43.082Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.coding.me/2016/12/15/clonecamera/</loc>
-    
-    <lastmod>2017-01-12T05:49:40.196Z</lastmod>
+    <lastmod>2017-01-22T06:21:43.186Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://vioren.coding.me/2016/10/19/mifareclassictool/</loc>
+    <loc>http://vioren.coding.me/archives/legoone/</loc>
     
-    <lastmod>2017-01-12T05:49:37.176Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.coding.me/2015/12/04/motto/</loc>
-    
-    <lastmod>2017-01-12T05:49:26.542Z</lastmod>
+    <lastmod>2017-01-22T06:21:38.372Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://vioren.coding.me/2015/12/08/benzenebaby/</loc>
+    <loc>http://vioren.coding.me/archives/legotwo/</loc>
     
-    <lastmod>2017-01-12T05:49:19.911Z</lastmod>
+    <lastmod>2017-01-22T06:21:31.846Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.coding.me/archives/crackunity3d/</loc>
+    
+    <lastmod>2017-01-22T06:21:27.526Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.coding.me/archives/hexo/</loc>
+    
+    <lastmod>2017-01-22T06:21:23.970Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.coding.me/archives/duoshuoone/</loc>
+    
+    <lastmod>2017-01-22T06:21:18.923Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.coding.me/archives/duoshuotwo/</loc>
+    
+    <lastmod>2017-01-22T06:21:14.318Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.coding.me/archives/duoshuothree/</loc>
+    
+    <lastmod>2017-01-22T06:21:09.875Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.coding.me/archives/markdown/</loc>
+    
+    <lastmod>2017-01-22T06:21:05.782Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.coding.me/archives/optimizejpeg/</loc>
+    
+    <lastmod>2017-01-22T06:21:00.092Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.coding.me/archives/idasignature/</loc>
+    
+    <lastmod>2017-01-22T06:20:55.458Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.coding.me/archives/afterfocus/</loc>
+    
+    <lastmod>2017-01-22T06:20:50.929Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.coding.me/archives/clonecamera/</loc>
+    
+    <lastmod>2017-01-22T06:20:46.793Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.coding.me/archives/mifareclassictool/</loc>
+    
+    <lastmod>2017-01-22T06:20:43.131Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.coding.me/archives/pixlr/</loc>
+    
+    <lastmod>2017-01-22T06:20:33.372Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.coding.me/archives/poolbreak/</loc>
+    
+    <lastmod>2017-01-22T06:20:29.111Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.coding.me/archives/photoeditor/</loc>
+    
+    <lastmod>2017-01-20T17:29:20.000Z</lastmod>
     
   </url>
   
