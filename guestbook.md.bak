@@ -1,0 +1,25 @@
+---
+permalink: guestbook.html
+reward: true
+---
+
+<style type="text/css">
+p.note {
+	color:#555;
+	font-size:32px;
+	text-align:center;
+	margin: 0 auto;
+	font-weight:700;
+	line-height:1.6em;
+	width:100%;
+	height:100%
+}
+</style>
+
+<div class="booktitle">
+<p class="note">留言板</p>
+留言板正在建设中...<br />
+欢迎大家畅所欲言~<br />
+</div>
+最近访客
+<div class="ds-recent-visitors" data-num-items="28" data-avatar-size="42" id="ds-recent-visitors"></div>
