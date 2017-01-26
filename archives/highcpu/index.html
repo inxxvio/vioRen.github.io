@@ -5,13 +5,13 @@
   
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
-  <link rel="dns-prefetch" href="http://vioren.coding.me">
+  <link rel="dns-prefetch" href="http://vioren.space">
   <title>tomcat+java的web程序持续占cpu问题调试 | 寻沫小栈 | 风澈</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="[线上应用故障排查之：高CPU占用]一个应用占用CPU很高，除了确实是计算密集型应用之外，通常原因都是出现了死循环。以我们最近出现的一个实际故障为例，介绍怎么定位和解决这类问题。现象：在tomcat中部署java的web应用程序，过一段时间后出现tomcat的java进程持续占用cpu高达100%，导致web程序访问受阻。可能原因分析：可能程序确实在进行数据计算；或程序进入死循环。">
 <meta property="og:type" content="article">
 <meta property="og:title" content="tomcat+java的web程序持续占cpu问题调试">
-<meta property="og:url" content="http://vioren.coding.me/archives/highcpu/index.html">
+<meta property="og:url" content="http://vioren.space/archives/highcpu/index.html">
 <meta property="og:site_name" content="寻沫小栈 | 风澈">
 <meta property="og:description" content="[线上应用故障排查之：高CPU占用]一个应用占用CPU很高，除了确实是计算密集型应用之外，通常原因都是出现了死循环。以我们最近出现的一个实际故障为例，介绍怎么定位和解决这类问题。现象：在tomcat中部署java的web应用程序，过一段时间后出现tomcat的java进程持续占用cpu高达100%，导致web程序访问受阻。可能原因分析：可能程序确实在进行数据计算；或程序进入死循环。">
 <meta property="og:image" content="http://7xou8l.com1.z0.glb.clouddn.com/highcpu_1.jpg">
@@ -46,7 +46,7 @@
 var _hmt = _hmt || [];
 (function() {
 	var hm = document.createElement("script");
-	hm.src = "https://hm.baidu.com/hm.js?f0a5fa57dbb3bb77c7d08ab2b857519d";
+	hm.src = "https://hm.baidu.com/hm.js?281574e2dfd3d554f2b4833f6920d046";
 	var s = document.getElementsByTagName("script")[0]; 
 	s.parentNode.insertBefore(hm, s);
 })();
@@ -320,7 +320,7 @@ var _hmt = _hmt || [];
     <a class="close js-modal-close" href="javascript:;"><i class="icon icon-close"></i></a>
     <p>扫一扫，分享到微信</p>
     <div class="wx-qrcode">
-      <img src="http://s.jiathis.com/qrcode.php?url=http://vioren.coding.me/archives/highcpu/" alt="微信分享二维码">
+      <img src="http://s.jiathis.com/qrcode.php?url=http://vioren.space/archives/highcpu/" alt="微信分享二维码">
     </div>
 </div>
 
@@ -359,7 +359,7 @@ var _hmt = _hmt || [];
   
   <div class="duoshuo">
 	<!-- 多说评论框 start -->
-	<div class="ds-thread" data-thread-key="highcpu" data-title="tomcat+java的web程序持续占cpu问题调试" data-url="http://vioren.coding.me/archives/highcpu/"></div>
+	<div class="ds-thread" data-thread-key="highcpu" data-title="tomcat+java的web程序持续占cpu问题调试" data-url="http://vioren.space/archives/highcpu/"></div>
 	<!-- 多说评论框 end -->
 	<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 	<script type="text/javascript">
@@ -468,11 +468,11 @@ var _hmt = _hmt || [];
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">软件开发</a>
+                <a href="javascript:void(0)" class="js-tag color3">杂谈</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">杂谈</a>
+                <a href="javascript:void(0)" class="js-tag color5">软件开发</a>
               </li>
              
               <li class="article-tag-list-item">
