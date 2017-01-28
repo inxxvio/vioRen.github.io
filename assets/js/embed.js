@@ -97,7 +97,6 @@ function ua(e) {
     return outputer + "</span>" + Mobile;
 }
 function os(e) {
-	var r = new Array;
     var os = '';
     if (e.match(/win/ig)) {
         if (e.match(/nt 5.1/ig)) {
@@ -117,7 +116,7 @@ function os(e) {
         } else {
             os = '<span class="os_windows"><i class="fa fa-desktop"></i> Windows'
         }
-    } /*else if (e.match(/android 7.1/ig)) {
+    } else if (e.match(/android 7.1/ig)) {
         os = '<span class="os_android"><i class="fa fa-android"></i> Android 7.1'
     } else if (e.match(/android 7.0/ig)) {
         os = '<span class="os_android"><i class="fa fa-android"></i> Android 7.0'
@@ -131,9 +130,8 @@ function os(e) {
         os = '<span class="os_android"><i class="fa fa-android"></i> Android 4.4'
     } else if (e.match(/android 4.1/ig)) {
         os = '<span class="os_android"><i class="fa fa-android"></i> Android 4.1'
-    } */else if (r = e.match(/android ([^\s]+)/ig)) {
-		var r1 = r[0].split("/");
-        os = '<span class="os_android"><i class="fa fa-android"></i> Android ❤' + ' ' + r1[1].split('.')[0]
+    } else if (e.match(/android/ig)) {
+        os = '<span class="os_android"><i class="fa fa-android"></i> Android ❤'
     } else if (e.match(/ubuntu/ig)) {
         os = '<span class="os_ubuntu"><i class="fa fa-desktop"></i> Ubuntu'
     } else if (e.match(/linux/ig)) {
