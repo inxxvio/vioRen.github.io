@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://vioren.space/archives/afterfocus/</loc>
+    
+    <lastmod>2017-01-29T15:41:41.271Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://vioren.space/guestbook/index.html</loc>
     
-    <lastmod>2017-01-28T18:07:39.928Z</lastmod>
+    <lastmod>2017-01-29T15:24:06.167Z</lastmod>
     
   </url>
   
@@ -117,13 +124,6 @@
     <loc>http://vioren.space/archives/idasignature/</loc>
     
     <lastmod>2017-01-22T06:20:55.458Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.space/archives/afterfocus/</loc>
-    
-    <lastmod>2017-01-22T06:20:50.929Z</lastmod>
     
   </url>
   

@@ -428,7 +428,7 @@
     <link href="http://vioren.space/archives/afterfocus/"/>
     <id>http://vioren.space/archives/afterfocus/</id>
     <published>2016-11-14T17:29:20.000Z</published>
-    <updated>2017-01-22T06:20:50.929Z</updated>
+    <updated>2017-01-29T15:41:41.271Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/afterfocus-logo.png?imageView/2/w/200/q/90" alt=""><br>AfterFocus Pro – 一款可将照片后期调教出背景虚化、焦点景物突出的单反效果，还可进行光圈控制、使用滤镜等一系列操作的Android应用。</p>
 <p>　　通过AfterFocus Pro，你可以通过简单地选择对焦区域创建DSLR风格的背景虚化的照片。此外，多种滤镜效果为您创造最自然，逼真的照片。更精确地选择一个对焦领域，可以实现更加自然和专业的照片。只需标记你想要对焦的地方，AfterFocus Pro将自动精确识别对焦区域中复杂形状的物体。这种自动功能可以让你在智能手机的小屏幕上更快捷方便的修片。另外，AfterFocus Pro的背景虚化效果使相片背景的边缘和焦点区域之间呈现更逼真的外观。</p>
@@ -446,10 +446,11 @@
 <hr>
 <p><strong>修改说明：</strong></p>
 <ol>
-<li>破解Google授权验证、NDK逻辑验证</li>
+<li>破解Google授权验证、NDK签名逻辑验证</li>
 <li>精简语言</li>
 <li>汉化为简体中文</li>
-<li>zipalign对齐优化</li>
+<li>arm架构精简</li>
+<li>Zipalign对齐优化</li>
 </ol>
 <p><strong>修改人员：<a href="">风澈vio</a>（转载必须注明出处）</strong></p>
 <p><strong>下载地址：<a href="http://pan.baidu.com/s/1jIHgxDG" target="_blank" rel="external">百度网盘</a> 密码：1024</strong></p>
