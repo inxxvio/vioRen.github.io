@@ -17,9 +17,9 @@
 <meta property="og:description" content="前言
 　　上面两篇我们详细介绍了多说评论自定义CSS头像和显示UA信息和博主。但是仍然感觉评论框十分不协调，并且有些杂乱，接下来我们就要谈论我们的多说评论框下篇之个性化评论框，话不多说，切入正题~">
 <meta property="og:image" content="http://odt5zm3rs.bkt.clouddn.com/duoshuothree-0.png">
-<meta property="og:image" content="http://upload-images.jianshu.io/upload_images/1293861-505e50c404bfeb6a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
-<meta property="og:image" content="http://upload-images.jianshu.io/upload_images/1293861-0879a8ac73eb5d35.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
-<meta property="og:updated_time" content="2017-01-22T06:21:09.875Z">
+<meta property="og:image" content="http://odt5zm3rs.bkt.clouddn.com/duoshuothree-1.jpg">
+<meta property="og:image" content="http://odt5zm3rs.bkt.clouddn.com/duoshuothree-2.jpg">
+<meta property="og:updated_time" content="2017-01-30T13:55:10.246Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="多说评论下篇之个性化评论框">
 <meta name="twitter:description" content="前言
@@ -238,16 +238,18 @@ var _hmt = _hmt || [];
 <h5 id="20、评论列表背景"><a href="#20、评论列表背景" class="headerlink" title="20、评论列表背景"></a>20、评论列表背景</h5><figure class="highlight css"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="selector-id">#ds-thread</span> <span class="selector-id">#ds-reset</span> <span class="selector-tag">li</span><span class="selector-class">.ds-post</span> &#123;</div><div class="line">    <span class="attribute">background</span>: <span class="built_in">rgba</span>(255, 255, 255, .2);</div><div class="line">&#125;</div><div class="line"><span class="selector-id">#ds-thread</span> <span class="selector-id">#ds-reset</span> <span class="selector-tag">li</span><span class="selector-class">.ds-post</span><span class="selector-pseudo">:hover</span> &#123;</div><div class="line">    <span class="attribute">background-color</span>: <span class="built_in">rgba</span>(255, 255, 255, .6) <span class="meta">!important</span>;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 <h5 id="21、评论数标签"><a href="#21、评论数标签" class="headerlink" title="21、评论数标签"></a>21、评论数标签</h5><figure class="highlight css"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="selector-id">#ds-thread</span> <span class="selector-id">#ds-reset</span> <span class="selector-tag">li</span><span class="selector-class">.ds-tab</span> <span class="selector-tag">a</span><span class="selector-class">.ds-current</span> &#123;</div><div class="line">    <span class="attribute">background</span>: <span class="built_in">rgba</span>(255, 255, 255, .2);</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 <p><strong>都是一些现成的CSS代码，直接复制就可以用了。当然里面的颜色或者是其他属性什么的你们自己修改就可以了。照样可以实现你想要的效果。</strong></p>
-<h2 id="手动获取css标签信息"><a href="#手动获取css标签信息" class="headerlink" title="手动获取css标签信息"></a>手动获取css标签信息</h2><hr>
-<p>当然，这些个性化信息并不能全覆盖我们自己想要达到的效果，那么在具体使用中，我们怎样知道多说的某一个按钮，某一条线，使用的是哪一个css标签呢？(像<code>#ds-thread #ds-reset .ds-highlight</code>)，下面提供一个在google chrome下查看的简单办法：</p>
+<h2 id="手动获取css标签信息"><a href="#手动获取css标签信息" class="headerlink" title="手动获取css标签信息"></a>手动获取css标签信息</h2><p>当然，这些个性化信息并不能全覆盖我们自己想要达到的效果，那么在具体使用中，我们怎样知道多说的某一个按钮，某一条线，使用的是哪一个css标签呢？(像<code>#ds-thread #ds-reset .ds-highlight</code>)，下面提供一个在google chrome下查看的简单办法：</p>
 <ol>
-<li>在页面元素上方点击【鼠标右键】，选择【审查元素】<br><img src="http://upload-images.jianshu.io/upload_images/1293861-505e50c404bfeb6a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></li>
-<li>将鼠标悬浮在相应元素的代码上方，页面中也会显示出选中效果。点击代码之后，右侧子窗口会显示相应标签。<br><img src="http://upload-images.jianshu.io/upload_images/1293861-0879a8ac73eb5d35.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></li>
-<li>没错，如果你想要控制喜欢按钮的颜色，只需在多说的自定义css里，添加并调整color的颜色值即可<figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="selector-id">#ds-thread</span> <span class="selector-id">#ds-reset</span> <span class="selector-tag">a</span><span class="selector-class">.ds-like-thread-button</span> <span class="selector-tag">span</span> &#123;</div><div class="line">    <span class="attribute">color</span>: <span class="number">#F00</span>;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<li><p>在页面元素上方点击【鼠标右键】，选择【审查元素】<br><img src="http://odt5zm3rs.bkt.clouddn.com/duoshuothree-1.jpg" alt=""></p>
+</li>
+<li><p>将鼠标悬浮在相应元素的代码上方，页面中也会显示出选中效果。点击代码之后，右侧子窗口会显示相应标签。<br><img src="http://odt5zm3rs.bkt.clouddn.com/duoshuothree-2.jpg" alt=""></p>
+</li>
+<li><p>没错，如果你想要控制喜欢按钮的颜色，只需在多说的自定义css里，添加并调整color的颜色值即可</p>
 </li>
 </ol>
+<figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="selector-id">#ds-thread</span> <span class="selector-id">#ds-reset</span> <span class="selector-tag">a</span><span class="selector-class">.ds-like-thread-button</span> <span class="selector-tag">span</span> &#123;</div><div class="line">    <span class="attribute">color</span>: <span class="number">#F00</span>;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 <hr>
-<p>特别感谢：<a href="http://shenchaofei.cn/" target="_blank" rel="external">@沈超飞</a> <a href="http://moxfive.xyz/" target="_blank" rel="external">@<a href="http://moxfive.xyz/" target="_blank" rel="external">MOxFIVE</a></a></p>
+<p>特别感谢：<a href="http://shenchaofei.cn/" target="_blank" rel="external">@沈超飞</a> <a href="http://moxfive.xyz/" target="_blank" rel="external">@MOxFIVE</a></p>
 
       
 
@@ -504,11 +506,11 @@ var _hmt = _hmt || [];
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">软件开发</a>
+                <a href="javascript:void(0)" class="js-tag color5">宇宙之大</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">杂谈</a>
+                <a href="javascript:void(0)" class="js-tag color5">软件开发</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -545,6 +547,10 @@ var _hmt = _hmt || [];
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color3">破解</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color3">����֮��</a>
               </li>
             
             <div class="clearfix"></div>
