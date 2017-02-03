@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://vioren.space/404.html</loc>
+    
+    <lastmod>2017-02-03T06:15:39.230Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://vioren.space/archives/poolmoji/</loc>
     
     <lastmod>2017-01-30T15:26:42.318Z</lastmod>
@@ -100,13 +107,6 @@
   </url>
   
   <url>
-    <loc>http://vioren.space/404.html</loc>
-    
-    <lastmod>2017-01-22T07:52:28.882Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://vioren.space/archives/motto/</loc>
     
     <lastmod>2017-01-22T06:22:28.453Z</lastmod>
@@ -163,23 +163,9 @@
   </url>
   
   <url>
-    <loc>http://vioren.space/baidu_verify_w3tyjZTwra.html</loc>
-    
-    <lastmod>2017-01-04T18:03:37.344Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://vioren.space/archives/photoeditor/</loc>
     
     <lastmod>2016-12-28T09:29:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.space/baidu_verify_tbzlDzPtax.html</loc>
-    
-    <lastmod>2016-11-26T09:18:23.509Z</lastmod>
     
   </url>
   
