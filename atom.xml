@@ -430,6 +430,68 @@
   </entry>
   
   <entry>
+    <title>抓取数据包Packet Capture v1.2.3汉化精简版</title>
+    <link href="http://vioren.space/archives/packetcapture/"/>
+    <id>http://vioren.space/archives/packetcapture/</id>
+    <published>2016-12-06T02:43:32.000Z</published>
+    <updated>2017-02-09T07:58:50.079Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/packetcapture-0.png-logo" alt=""></p>
+<p>Packet Capture – 一款依托安卓系统自身VPN来达到免Root抓取数据包的应用程序。</p>
+<p>　　Packet Capture一个使用SSL网络解密的 捕获数据包/网络嗅探 工具，虽然它的功能并不丰富，但是当你开发一个应用时，却不得不说它是一款强大的工具。Packet Capture通过自建一个vpn达到无root，通过中间人方便调试加密流量，流量还区分应用一目了然，这大概是目前最方便的抓包应用了吧。<br><a id="more"></a></p>
+<p><strong>功能特点：</strong></p>
+<ul>
+<li>捕获网络数据包并记录下来</li>
+<li>使用中间人技术进行SSL解密</li>
+<li>无需root</li>
+<li>方便快捷</li>
+<li>以十六进制或文本来显示数据包</li>
+</ul>
+<p><img src="http://odt5zm3rs.bkt.clouddn.com/packetcapture-1.png-screenshot" alt=""> <img src="http://odt5zm3rs.bkt.clouddn.com/packetcapture-2.png-screenshot" alt=""></p>
+<p><img src="http://odt5zm3rs.bkt.clouddn.com/packetcapture-3.png-screenshot" alt=""> <img src="http://odt5zm3rs.bkt.clouddn.com/packetcapture-4.png-screenshot" alt=""><br><strong>国际惯例：介绍截图没有更新</strong></p>
+<figure class="highlight gradle"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">更新日志：</div><div class="line">v1.<span class="number">2.3</span>:</div><div class="line">UI improvements.</div><div class="line">- Show <span class="keyword">size</span> of the packet <span class="keyword">dump</span> <span class="keyword">file</span>.</div><div class="line">- Hide packet <span class="keyword">from</span> <span class="keyword">this</span> app by <span class="keyword">default</span>.</div></pre></td></tr></table></figure>
+<p>Google Play：<br><a href="https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture" target="_blank" rel="external">https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture</a></p>
+<hr>
+<p><strong>修改说明：</strong></p>
+<ol>
+<li>极致精简，全包仅2.31M </li>
+<li>完美简体汉化并精简无用语言包</li>
+<li>去除广告</li>
+<li>更改包文本框属性，可直接复制报文文本</li>
+<li>剥离Google sdk</li>
+<li>剥离Fabric sdk</li>
+<li>剥离Crashlytics，禁用隐私统计</li>
+<li>apk包体积优化</li>
+<li>Zipalign对齐优化</li>
+</ol>
+<p><strong>修改人员：<a href="">风澈vio</a>（转载必须注明出处）</strong></p>
+<p><strong>下载地址：<a href="https://pan.baidu.com/s/1bpKdJ1l" target="_blank" rel="external">百度网盘</a> 密码：1024</strong></p>
+<ul>
+<li>注意：</li>
+<li>使用者由此程序所造成的损失修改者不承担任何责任。</li>
+<li>最终版权归原作者所有。</li>
+<li>请在法律允许的范围内合理使用本程序。</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://odt5zm3rs.bkt.clouddn.com/packetcapture-0.png-logo&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Packet Capture – 一款依托安卓系统自身VPN来达到免Root抓取数据包的应用程序。&lt;/p&gt;
+&lt;p&gt;　　Packet Capture一个使用SSL网络解密的 捕获数据包/网络嗅探 工具，虽然它的功能并不丰富，但是当你开发一个应用时，却不得不说它是一款强大的工具。Packet Capture通过自建一个vpn达到无root，通过中间人方便调试加密流量，流量还区分应用一目了然，这大概是目前最方便的抓包应用了吧。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="App" scheme="http://vioren.space/tags/App/"/>
+    
+      <category term="汉化" scheme="http://vioren.space/tags/%E6%B1%89%E5%8C%96/"/>
+    
+      <category term="破解" scheme="http://vioren.space/tags/%E7%A0%B4%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>3D桌球Pool Break Pro v2.6.5汉化特别版</title>
     <link href="http://vioren.space/archives/poolbreak/"/>
     <id>http://vioren.space/archives/poolbreak/</id>
@@ -913,7 +975,7 @@
     <link href="http://vioren.space/archives/hexo/"/>
     <id>http://vioren.space/archives/hexo/</id>
     <published>2016-09-22T07:27:17.000Z</published>
-    <updated>2017-02-07T15:01:36.171Z</updated>
+    <updated>2017-02-07T15:33:55.548Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/hexo-1.png?imageView/2/w/450/q/90" alt=""></p>
 <hr>
@@ -1046,7 +1108,7 @@
 </blockquote>
 <p>-</p>
 <blockquote>
-<p>Simple Free Image Hosting<br>【推荐理由】免费，强大，无限制，用了都说好<br><a href="https://sm.ms" target="_blank" rel="external">https://sm.ms</a><br>说明：<a href="https://www.v2ex.com/t/182703" target="_blank" rel="external">https://www.v2ex.com/t/182703</a></p>
+<p>Simple Free Image Hosting<br>【推荐理由】免费，强大，无限制，用了都说好<br>缺点：后期无法对上传的图片进行管理<br><a href="https://sm.ms" target="_blank" rel="external">https://sm.ms</a><br>说明：<a href="https://www.v2ex.com/t/182703" target="_blank" rel="external">https://www.v2ex.com/t/182703</a></p>
 </blockquote>
 <hr>
 <h1 id="其他相关"><a href="#其他相关" class="headerlink" title="其他相关"></a>其他相关</h1><h3 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h3><ol>
