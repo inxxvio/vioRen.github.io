@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://vioren.space/archives/vsco/</loc>
+    
+    <lastmod>2017-02-20T10:17:11.772Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vioren.space/guestbook/index.html</loc>
+    
+    <lastmod>2017-02-15T10:07:02.441Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://vioren.space/archives/afterfocus/</loc>
     
     <lastmod>2017-02-11T09:14:55.392Z</lastmod>
@@ -40,13 +54,6 @@
     <loc>http://vioren.space/archives/poolmoji/</loc>
     
     <lastmod>2017-02-07T15:07:07.337Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.space/archives/vsco/</loc>
-    
-    <lastmod>2017-02-06T07:49:04.255Z</lastmod>
     
   </url>
   
@@ -103,13 +110,6 @@
     <loc>http://vioren.space/archives/benzenebaby/</loc>
     
     <lastmod>2017-01-30T13:22:42.010Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vioren.space/guestbook/index.html</loc>
-    
-    <lastmod>2017-01-29T15:24:06.167Z</lastmod>
     
   </url>
   
