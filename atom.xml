@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://vioren.space/"/>
-  <updated>2017-02-28T16:13:40.067Z</updated>
+  <updated>2016-12-05T09:29:20.000Z</updated>
   <id>http://vioren.space/</id>
   
   <author>
@@ -16,11 +16,83 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>3D桌球Pool Break Pro v2.7.0汉化特别版</title>
+    <link href="http://vioren.space/archives/poolbreak/"/>
+    <id>http://vioren.space/archives/poolbreak/</id>
+    <published>2017-03-10T17:48:20.000Z</published>
+    <updated>2016-12-05T09:29:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/poolbreak-0.png-logo" alt=""><br>Pool Break是一套具有多种台球玩法，包括八球，九球，斯诺克，克朗棋和加拿大棋等十余种台球的一套游戏，其逼真的物理逻辑系数和图形渲染效果以及方便快捷的操作方式均有可圈可点之处。更值得一提的是, 其不仅可以人机对战, 且支持联网对战。</p>
+<p><strong>功能特点：</strong></p>
+<ul>
+<li>十余种桌球游戏合一</li>
+<li>支持多国语言</li>
+<li>在线跨平台多人游戏</li>
+<li>在线聊天</li>
+<li>有四个难度级别的电脑对手</li>
+</ul>
+<a id="more"></a>
+<ul>
+<li>单机多人轮流模式</li>
+<li>逼真的桌球物理效果</li>
+<li>多种形状球台</li>
+<li>扎杆和偏杆</li>
+<li>可视化的用户界面</li>
+<li>竖屏和横屏双模式</li>
+<li>内置帮助手册</li>
+</ul>
+<p><img src="http://odt5zm3rs.bkt.clouddn.com/poolbreak-1.png-screenshot" alt=""> <img src="http://odt5zm3rs.bkt.clouddn.com/poolbreak-2.png-screenshot" alt=""></p>
+<p><img src="http://odt5zm3rs.bkt.clouddn.com/poolbreak-3.png-screenshot" alt=""> <img src="http://odt5zm3rs.bkt.clouddn.com/poolbreak-4.png-screenshot" alt=""><br><strong>国际惯例：介绍截图没有更新</strong></p>
+<figure class="highlight mipsasm"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line">更新日志：</div><div class="line"></div><div class="line">Version <span class="number">2</span>.<span class="number">7</span>.<span class="number">0</span>:</div><div class="line">• Circular tables <span class="keyword">added </span>for Pool <span class="keyword">and </span>Snooker</div><div class="line">• New Game: Karambol - Carrom <span class="keyword">Billiards </span>with no cushion requirements</div><div class="line">• Place-n-<span class="keyword">Shoot </span>mode for pocketless <span class="keyword">billiards </span>games</div><div class="line">• Chat <span class="keyword">dialog </span>updated</div><div class="line">• Fixed color <span class="keyword">ball </span>spotting rules in Snooker</div><div class="line">• Other minor improvements <span class="keyword">and </span>stability fixes</div><div class="line">Version <span class="number">2</span>.<span class="number">6</span>.<span class="number">5</span>:</div><div class="line">• Allows replay of winning <span class="keyword">shot </span>after game over</div><div class="line">• Stability improvements <span class="keyword">and </span><span class="keyword">bug </span>fixes</div><div class="line">Version <span class="number">2</span>.<span class="number">6</span>.<span class="number">4</span>:</div><div class="line">• <span class="keyword">Added </span>Leaderboards <span class="keyword">and </span>Achievements</div><div class="line">• Fixed Spanish translation issues</div><div class="line">• Minor <span class="keyword">bug </span>fixes</div></pre></td></tr></table></figure>
+<p>来源：<a href="http://www.kineticbytes.com" target="_blank" rel="external">http://www.kineticbytes.com</a><br>Google Play：<br><a href="https://play.google.com/store/apps/details?id=com.kb.Carrom3DFull" target="_blank" rel="external">https://play.google.com/store/apps/details?id=com.kb.Carrom3DFull</a></p>
+<hr>
+<p><strong>修改说明：</strong></p>
+<ol>
+<li>破解签名验证，修复闪退</li>
+<li>修正并补全简体中文汉化</li>
+<li>增加了相关帮助信息和文档的汉化</li>
+<li>精简语言并剔除相关选项</li>
+<li>zipalign对齐优化</li>
+</ol>
+<p><strong>修改人员：<a href="">风澈vio</a>（转载必须注明出处）</strong></p>
+<p><strong>下载地址：<a href="http://pan.baidu.com/s/1jIa0118" target="_blank" rel="external">百度网盘</a> 密码：1024</strong></p>
+<ul>
+<li>注意：</li>
+<li>使用者由此程序所造成的损失修改者不承担任何责任。</li>
+<li>最终版权归原作者所有。</li>
+<li>请在法律允许的范围内合理使用本程序。</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://odt5zm3rs.bkt.clouddn.com/poolbreak-0.png-logo&quot; alt=&quot;&quot;&gt;&lt;br&gt;Pool Break是一套具有多种台球玩法，包括八球，九球，斯诺克，克朗棋和加拿大棋等十余种台球的一套游戏，其逼真的物理逻辑系数和图形渲染效果以及方便快捷的操作方式均有可圈可点之处。更值得一提的是, 其不仅可以人机对战, 且支持联网对战。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;功能特点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;十余种桌球游戏合一&lt;/li&gt;
+&lt;li&gt;支持多国语言&lt;/li&gt;
+&lt;li&gt;在线跨平台多人游戏&lt;/li&gt;
+&lt;li&gt;在线聊天&lt;/li&gt;
+&lt;li&gt;有四个难度级别的电脑对手&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="App" scheme="http://vioren.space/tags/App/"/>
+    
+      <category term="汉化" scheme="http://vioren.space/tags/%E6%B1%89%E5%8C%96/"/>
+    
+      <category term="破解" scheme="http://vioren.space/tags/%E7%A0%B4%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>相片处理VSCO Cam v19全滤镜特别版</title>
     <link href="http://vioren.space/archives/vsco/"/>
     <id>http://vioren.space/archives/vsco/</id>
     <published>2017-02-06T07:43:32.000Z</published>
-    <updated>2017-02-28T16:13:40.067Z</updated>
+    <updated>2017-02-06T07:43:32.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/vsco-0.png-logo" alt=""></p>
 <p>VSCO Cam – 一款依托强大滤镜功能的相片处理应用程序。</p>
@@ -477,78 +549,6 @@
       &lt;p&gt;&lt;img src=&quot;http://odt5zm3rs.bkt.clouddn.com/packetcapture-0.png-logo&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Packet Capture – 一款依托安卓系统自身VPN来达到免Root抓取数据包的应用程序。&lt;/p&gt;
 &lt;p&gt;　　Packet Capture一个使用SSL网络解密的 捕获数据包/网络嗅探 工具，虽然它的功能并不丰富，但是当你开发一个应用时，却不得不说它是一款强大的工具。Packet Capture通过自建一个vpn达到无root，通过中间人方便调试加密流量，流量还区分应用一目了然，这大概是目前最方便的抓包应用了吧。&lt;br&gt;
-    
-    </summary>
-    
-    
-      <category term="App" scheme="http://vioren.space/tags/App/"/>
-    
-      <category term="汉化" scheme="http://vioren.space/tags/%E6%B1%89%E5%8C%96/"/>
-    
-      <category term="破解" scheme="http://vioren.space/tags/%E7%A0%B4%E8%A7%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>3D桌球Pool Break Pro v2.6.5汉化特别版</title>
-    <link href="http://vioren.space/archives/poolbreak/"/>
-    <id>http://vioren.space/archives/poolbreak/</id>
-    <published>2016-12-05T09:29:20.000Z</published>
-    <updated>2017-02-11T09:08:51.554Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://odt5zm3rs.bkt.clouddn.com/poolbreak-0.png-logo" alt=""><br>Pool Break是一套具有多种台球玩法，包括八球，九球，斯诺克，克朗棋和加拿大棋等十余种台球的一套游戏，其逼真的物理逻辑系数和图形渲染效果以及方便快捷的操作方式均有可圈可点之处。更值得一提的是, 其不仅可以人机对战, 且支持联网对战。</p>
-<p><strong>功能特点：</strong></p>
-<ul>
-<li>十余种桌球游戏合一</li>
-<li>支持多国语言</li>
-<li>在线跨平台多人游戏</li>
-<li>在线聊天</li>
-<li>有四个难度级别的电脑对手</li>
-</ul>
-<a id="more"></a>
-<ul>
-<li>单机多人轮流模式</li>
-<li>逼真的桌球物理效果</li>
-<li>多种形状球台</li>
-<li>扎杆和偏杆</li>
-<li>可视化的用户界面</li>
-<li>竖屏和横屏双模式</li>
-<li>内置帮助手册</li>
-</ul>
-<p><img src="http://odt5zm3rs.bkt.clouddn.com/poolbreak-1.png-screenshot" alt=""> <img src="http://odt5zm3rs.bkt.clouddn.com/poolbreak-2.png-screenshot" alt=""></p>
-<p><img src="http://odt5zm3rs.bkt.clouddn.com/poolbreak-3.png-screenshot" alt=""> <img src="http://odt5zm3rs.bkt.clouddn.com/poolbreak-4.png-screenshot" alt=""></p>
-<figure class="highlight mipsasm"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">更新日志：</div><div class="line"></div><div class="line">Version <span class="number">2</span>.<span class="number">6</span>.<span class="number">5</span>:</div><div class="line">★ Allows replay of winning <span class="keyword">shot </span>after game over</div><div class="line">★ Stability improvements <span class="keyword">and </span><span class="keyword">bug </span>fixes</div><div class="line">Version <span class="number">2</span>.<span class="number">6</span>.<span class="number">4</span>:</div><div class="line">★ <span class="keyword">Added </span>Leaderboards <span class="keyword">and </span>Achievements</div><div class="line">★ Fixed Spanish translation issues</div><div class="line">★ Minor <span class="keyword">bug </span>fixes</div></pre></td></tr></table></figure>
-<p>来源：<a href="http://www.kineticbytes.com" target="_blank" rel="external">http://www.kineticbytes.com</a><br>Google Play：<br><a href="https://play.google.com/store/apps/details?id=com.kb.Carrom3DFull" target="_blank" rel="external">https://play.google.com/store/apps/details?id=com.kb.Carrom3DFull</a></p>
-<hr>
-<p><strong>修改说明：</strong></p>
-<ol>
-<li>破解签名验证，修复闪退</li>
-<li>修正并补全简体中文汉化</li>
-<li>增加了相关帮助信息和文档的汉化</li>
-<li>精简语言并剔除相关选项</li>
-<li>zipalign对齐优化</li>
-</ol>
-<p><strong>修改人员：<a href="">风澈vio</a>（转载必须注明出处）</strong></p>
-<p><strong>下载地址：<a href="http://pan.baidu.com/s/1jIa0118" target="_blank" rel="external">百度网盘</a> 密码：1024</strong></p>
-<ul>
-<li>注意：</li>
-<li>使用者由此程序所造成的损失修改者不承担任何责任。</li>
-<li>最终版权归原作者所有。</li>
-<li>请在法律允许的范围内合理使用本程序。</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://odt5zm3rs.bkt.clouddn.com/poolbreak-0.png-logo&quot; alt=&quot;&quot;&gt;&lt;br&gt;Pool Break是一套具有多种台球玩法，包括八球，九球，斯诺克，克朗棋和加拿大棋等十余种台球的一套游戏，其逼真的物理逻辑系数和图形渲染效果以及方便快捷的操作方式均有可圈可点之处。更值得一提的是, 其不仅可以人机对战, 且支持联网对战。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;功能特点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;十余种桌球游戏合一&lt;/li&gt;
-&lt;li&gt;支持多国语言&lt;/li&gt;
-&lt;li&gt;在线跨平台多人游戏&lt;/li&gt;
-&lt;li&gt;在线聊天&lt;/li&gt;
-&lt;li&gt;有四个难度级别的电脑对手&lt;/li&gt;
-&lt;/ul&gt;
     
     </summary>
     
